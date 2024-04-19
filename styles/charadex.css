@@ -27,9 +27,9 @@ body {
   /* ============================================================= */
   /* Backgrounds
   ================================================================ */
-  --cd-body-background-color:            #f8f8f8;
+  --cd-body-background-color:            #293733;
   --cd-content-background-color:         #ffffff;
-  --cd-faded-background-color:           #f8f8f8;
+  --cd-faded-background-color:           #293733;
 
   /* Background Extras */
   --cd-body-background-image:             url();
