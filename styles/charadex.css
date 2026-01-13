@@ -32,7 +32,7 @@ body {
   --cd-faded-background-color:           #293733;
 
   /* Background Extras */
-  --cd-body-background-image:             url(https://f2.toyhou.se/file/f2-toyhou-se/images/74737806_ytfxzHLgO1dSO0Z.gif?1702431768);
+  --cd-body-background-image:             url(https://f2.toyhou.se/file/f2-toyhou-se/images/113309942_w1bbThktjEDlorw.jpg);
 
   /* ============================================================= */
   /* Text
@@ -212,7 +212,9 @@ body {
   background-color: var(--cd-body-background-color);
   background-image: var(--cd-body-background-image);
   background-position: center;
-  background-size: cover;
+  background-size: auto;
+  background-repeat: repeat;
+  background-blend-mode: screen;
 
 }
 
